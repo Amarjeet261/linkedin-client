@@ -1,0 +1,1 @@
+// this file define the type of navdata
